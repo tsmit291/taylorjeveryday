@@ -5,4 +5,12 @@ body {
 
 .title {
   color: #ff747f;
+  box-shadow: 1px 2px 2px grey;
+  background-color: white;
+  font-size: 52px;
+  font-weight: bolder;
+  text-align: center;
+  border: 1px solid black;
+  padding: 10%;
+  margin: 10%;
 }
