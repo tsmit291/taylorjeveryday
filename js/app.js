@@ -18,3 +18,5 @@ app.config(function($routeProvider){
     templateUrl: './partials/contact.html',
   })
 });
+
+console.log("I'm an extremely passionate and hard worker. I have been known to Rick Roll my coworkers and provide a copious amount of corny puns when the going gets tough. I write everything down in my notebook, so if you ever forget what you said, come find me as I most likely have what you need. I do things the right way, 100% of the time, even if it isn't the easiest way. I back up, check up and follow up to ensure careless mistakes are kept to an absolute minimum.");
