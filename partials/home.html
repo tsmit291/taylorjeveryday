@@ -1,1 +1,12 @@
-<div class="title"><p>T A Y L O R J E V E R Y D A Y</p></div>
+<div ng-controller="flipCtrl">
+    <div class="flip">
+        <div class="card" ng-class="{'flipped':isFlipped}" ng-click="isFlipped=!isFlipped">
+            <div class="face front">
+                <div class="title"><p>T A Y L O R J E V E R Y D A Y</p></div>
+            </div>
+            <div class="face back">
+                Back
+            </div>
+        </div>
+    </div>
+</div>
