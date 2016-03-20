@@ -41,6 +41,17 @@ body {
   text-decoration: none;
 }
 
+.petProjects {
+  color: white;
+  box-shadow: 1px 2px 2px grey;
+  background-color: #ff747f ;
+  text-align: justify;;
+  border: 1px solid black;
+  padding: 2% 10% 2% 10%;
+  margin: 6%;
+  text-decoration: none;
+}
+
 .information a:link {
   color: #ff747f;
 }
