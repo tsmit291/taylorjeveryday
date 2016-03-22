@@ -4,7 +4,7 @@ body {
 
 
 .title {
-  color: #ff747f;
+  color: #d34a45;
   box-shadow: 1px 2px 2px grey;
   background-color: white;
   font-size: 52px;
@@ -16,7 +16,7 @@ body {
 }
 
 .menu {
-  color: #ff747f;
+  color: #c93b37;
   box-shadow: 1px 2px 2px grey;
   background-color: white;
   font-size: 22px;
@@ -27,11 +27,11 @@ body {
 }
 
 .menu a:link {
-  color: #ff747f;
+  color: #d34a45;
 }
 
 .information {
-  color: #ff747f;
+  color: #d34a45;
   box-shadow: 1px 2px 2px grey;
   background-color: white;
   text-align: justify;;
@@ -44,7 +44,7 @@ body {
 .petProjects {
   color: white;
   box-shadow: 1px 2px 2px grey;
-  background-color: #ff747f ;
+  background-color: #d34a45;
   text-align: justify;;
   border: 1px solid black;
   padding: 2% 10% 2% 10%;
@@ -53,7 +53,7 @@ body {
 }
 
 .information a:link {
-  color: #ff747f;
+  color: #d34a45;
 }
 
 .subtitle {
