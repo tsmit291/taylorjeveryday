@@ -1,13 +1,14 @@
 body {
-  background-color: #de7e6a;
+  background-color: #e66765;
+  font-family: Alcubierre;
 }
 
 
 .title {
-  color: #fb7682;
+  color: #dd2625;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
   box-shadow: 1px 2px 2px grey;
-  background-color: #f0ece8;
+  background-color: white;
   font-size: 52px;
   font-weight: bolder;
   text-align: center;
@@ -34,7 +35,7 @@ body {
 .information {
   color: #d34a45;
   box-shadow: 1px 2px 2px grey;
-  background-color: #f1ece8;
+  background-color: white;
   text-align: justify;;
   border: 1px solid black;
   padding: 2% 10% 2% 10%;
