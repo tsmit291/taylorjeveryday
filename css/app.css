@@ -32,15 +32,23 @@ body {
   color: #d34a45;
 }
 
+.description {
+  font-family: sans-serif;
+}
+
 .information {
   color: #d34a45;
   box-shadow: 1px 2px 2px grey;
   background-color: white;
-  text-align: justify;;
+  text-align: justify;
   border: 1px solid black;
   padding: 2% 10% 2% 10%;
   margin: 6%;
   text-decoration: none;
+}
+
+.aboutTay {
+  font-family: sans-serif;
 }
 
 .linkies {
