@@ -47,6 +47,22 @@ body {
   text-decoration: none;
 }
 
+.resume_information {
+  color: #d34a45;
+  box-shadow: 1px 2px 2px grey;
+  background-color: white;
+  text-align: justify;
+  border: 1px solid black;
+  padding: 2% 10% 2% 10%;
+  margin: 6%;
+  text-decoration: none;
+  height: 160vh;
+}
+
+.resume {
+  width: 100%;
+  height: 90%;
+}
 .aboutTay {
   font-family: sans-serif;
 }
