@@ -3,7 +3,6 @@ body {
   font-family: Alcubierre;
 }
 
-
 .title {
   color: #dd2625;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
@@ -15,6 +14,16 @@ body {
   border: 1px solid black;
   padding: 10%;
   margin: 10%;
+}
+
+.navBar {
+  margin: 0%;
+  font-color: white;
+}
+
+.navBarlinkie {
+  padding: 0% 2% 0 2%;
+  color: white;
 }
 
 .menu {
@@ -63,8 +72,22 @@ body {
   width: 100%;
   height: 90%;
 }
+
 .aboutTay {
   font-family: sans-serif;
+}
+
+.subtitleProject {
+  font-size: 32px;
+  font-weight: bolder;
+  color: white;
+  padding: 6% 0 0 6%;
+}
+
+.back {
+  text-align: right;
+  font-family: Alcubierre;
+  font-size: 15px;
 }
 
 .linkies {
@@ -97,8 +120,6 @@ body {
 
 .flip {
   -webkit-perspective: 800;
-   /*width: 400px;
-   height: 200px;*/
     position: relative;
     margin: 50px auto;
 }
@@ -106,8 +127,6 @@ body {
   -webkit-transform: rotatex(-180deg);
 }
 .flip .card {
-  /*width: 100%;
-  height: 100%;*/
   -webkit-transform-style: preserve-3d;
   -webkit-transition: 0.5s;
 }
@@ -130,8 +149,5 @@ body {
 }
 .flip .card .back {
   -webkit-transform: rotatex(-180deg);
-    /*background: blue;
-    background: white;*/
-    /*color: black;*/
     cursor: pointer;
 }
